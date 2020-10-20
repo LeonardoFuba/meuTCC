@@ -1,0 +1,21 @@
+{
+  "name": "meutcc",
+  "version": "1.0.0",
+  "description": "de",
+  "main": "README.md",
+  "scripts": {
+    "commit": "npx git-cz"
+  },
+  "repository": "https://github.com/LeonardoFuba/meuTCC.git",
+  "keywords": [
+    "BLE",
+    "ESP32",
+    "RHD2000",
+    "open-ephys",
+    "arduino",
+    "ADS1015"
+  ],
+  "author": "LeonardoFuba <leonardo3.nascimento@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
